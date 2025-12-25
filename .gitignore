@@ -1,1 +1,6 @@
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+sea_level_plot.png
