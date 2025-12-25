@@ -3,4 +3,3 @@ __pycache__/
 *.pyo
 *.pyd
 .Python
-sea_level_plot.png
